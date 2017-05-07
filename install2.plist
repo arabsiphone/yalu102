@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/arabsiphone/yalu102/raw/master/2a5af30e0c928fa31d98b6c145bfc06f.ipa</string>
+					<string>https://raw.githubusercontent.com/arabsiphone/yalu102/master/2a5af30e0c928fa31d98b6c145bfc06f.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -35,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>yalu102</string>
+				<string>yalu10222</string>
 			</dict>
 		</dict>
 	</array>
