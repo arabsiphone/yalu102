@@ -1,0 +1,46 @@
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- saved from url=(0036)https://tutuapp.com/vn/2872302.plist -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body><plist version="1.0">
+						<dict>
+						   <key>items</key>
+						   <array>
+						       <dict>
+						           <key>assets</key>
+						           <array>
+						               <dict>
+						                   <key>kind</key>
+						                   <string>software-package</string>
+						                   <key>url</key>
+						                   <string>http://down.weapp.com/apps/zb/002/87/23/02/5929701e0ba062d931e5b8df.ipa</string>
+						               </dict>
+						               <dict>
+						                   <key>kind</key>
+						                   <string>display-image</string>
+						                   <key>needs-shine</key>
+						                   <true>
+						                   <key>url</key>
+						                   <string>http://www.weapp.com/picture/app_ios/cn/002/87/23/02/57x57bb.png</string>
+						                </true></dict>
+										<dict>
+										<key>kind</key>
+										<string>full-size-image</string>
+										<key>needs-shine</key>
+										<true>
+										<key>url</key><string>http://www.weapp.com/picture/app_ios/cn/002/87/23/02/512x512bb.png</string>
+										</true></dict>
+						           </array>
+						           <key>metadata</key>
+						           <dict>
+						               <key>bundle-identifier</key>
+						               <string>com.toyopagroupbymohadu31.picaboo</string>
+						               <key>bundle-version</key>
+						               <string>11.11.11.11</string>
+						               <key>kind</key>
+						               <string>software</string>
+						               <key>title</key>
+						               <string>Snapchat   </string>
+						           </dict>
+						       </dict>
+						   </array>
+						</dict>
+						</plist></body></html>
